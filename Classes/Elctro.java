@@ -1,5 +1,7 @@
 package Classes;
-import  Interfaces.Electronics_features;
+
+import Interfaces.Electronics_features;
+
 public class Elctro implements Electronics_features {
 
     protected Boolean status = false;

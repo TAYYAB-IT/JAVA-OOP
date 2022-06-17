@@ -6,7 +6,10 @@ package Interfaces;
 public interface Electronics_features {
 
     void On();
+
     void Off();
+
     void next();
+
     void prev();
 }
